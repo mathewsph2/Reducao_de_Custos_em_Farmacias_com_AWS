@@ -3,7 +3,9 @@
 
 
 Data: 28/12/2025
+
 Empresa: Abstergo Industries
+
 Responsável: Matheus Pinheiro Ribeiro
 
 
@@ -16,7 +18,10 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 O projeto foi dividido em três etapas, cada uma selecionando um serviço AWS estratégico para otimização de custos e modernização da infraestrutura.
 
 
+
 Etapa 1:
+
+
 Nome da ferramenta: Amazon EC2 Auto Scaling
 Foco da ferramenta: Ajuste automático da capacidade computacional
 Descrição de caso de uso:  
@@ -24,6 +29,8 @@ A empresa enfrentava custos elevados por manter servidores superdimensionados du
 
 
 Etapa 2:
+
+
 Nome da ferramenta: Amazon S3 (Simple Storage Service)
 Foco da ferramenta: Armazenamento de objetos com custo otimizado
 Descrição de caso de uso:  
@@ -31,6 +38,8 @@ A Abstergo armazenava arquivos em servidores locais e em sistemas de armazenamen
 
 
 Etapa 3:
+
+
 Nome da ferramenta: AWS Lambda
 Foco da ferramenta: Execução de código sem servidor (serverless)
 Descrição de caso de uso:  
@@ -39,17 +48,20 @@ Processos internos que antes dependiam de servidores dedicados foram convertidos
 
 
 ## Conclusão
+
+
 A implementação das ferramentas na empresa Abstergo Industries tem como esperado redução significativa de custos, maior escalabilidade, eliminação de infraestrutura ociosa e aumento da eficiência operacional, o que elevará a produtividade e permitirá que a empresa direcione recursos para áreas estratégicas. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos internos.
 
 
 
 ## Anexos
 
-Manual Resumido dos Serviços Implementados
 
-Resumo Técnico dos Serviços AWS Utilizados
+- Manual Resumido dos Serviços Implementados
 
-Glossário AWS
+- Resumo Técnico dos Serviços AWS Utilizados
+
+- Glossário AWS
 
 
 
