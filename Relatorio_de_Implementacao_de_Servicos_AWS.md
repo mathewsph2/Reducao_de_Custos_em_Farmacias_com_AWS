@@ -1,4 +1,4 @@
-#RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 
 
@@ -8,11 +8,11 @@ Responsável: Matheus Pinheiro Ribeiro
 
 
 
-##Introdução
+## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Matheus Pinheiro Ribeiro. O objetivo do projeto foi elencar 3 serviços AWS com foco em redução imediata de custos, aumento de eficiência operacional e eliminação de infraestrutura física desnecessária.
 
 
-##Descrição do Projeto
+## Descrição do Projeto
 O projeto foi dividido em três etapas, cada uma selecionando um serviço AWS estratégico para otimização de custos e modernização da infraestrutura.
 
 
@@ -38,12 +38,12 @@ Processos internos que antes dependiam de servidores dedicados foram convertidos
 
 
 
-##Conclusão
+## Conclusão
 A implementação das ferramentas na empresa Abstergo Industries tem como esperado redução significativa de custos, maior escalabilidade, eliminação de infraestrutura ociosa e aumento da eficiência operacional, o que elevará a produtividade e permitirá que a empresa direcione recursos para áreas estratégicas. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos internos.
 
 
 
-##Anexos
+## Anexos
 
 Manual Resumido dos Serviços Implementados
 
