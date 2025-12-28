@@ -1,2 +1,20 @@
-# Reducao_de_Custos_em_Farmacias_com_AWS
-Desafio de Projeto do Bootcamp CI&amp;T Backend com Java &amp; AWS
+# 🚀 Desafio de Projeto: Redução de Custos em Farmacias com AWS
+
+--- 
+
+## 🎯 Objetivo do Projeto 
+
+Aplicar os conhecimentos adquiridos no bootcamp para criar soluções backend escaláveis, seguras e otimizadas em ambiente AWS, seguindo padrões profissionais utilizados no mercado. 
+
+
+--- 
+## 👨‍💻 Autor 
+
+**Matheus Pinheiro Ribeiro** 
+
+
+--- 
+
+## 📄 Licença 
+
+Este projeto é de fins educacionais e faz parte do programa de formação da **CI&T**.
