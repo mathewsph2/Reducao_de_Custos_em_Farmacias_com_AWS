@@ -19,7 +19,7 @@ O projeto foi dividido em três etapas, cada uma selecionando um serviço AWS es
 
 
 
-Etapa 1:
+- Etapa 1:
 
 
 Nome da ferramenta: Amazon EC2 Auto Scaling
@@ -28,7 +28,7 @@ Descrição de caso de uso:
 A empresa enfrentava custos elevados por manter servidores superdimensionados durante períodos de baixa demanda. O Auto Scaling permite aumentar ou reduzir automaticamente a quantidade de instâncias EC2 conforme a necessidade real, evitando desperdício de recursos e garantindo que a empresa pague apenas pelo uso efetivo. Isso reduz custos operacionais e melhora a disponibilidade do sistema.
 
 
-Etapa 2:
+- Etapa 2:
 
 
 Nome da ferramenta: Amazon S3 (Simple Storage Service)
@@ -37,7 +37,7 @@ Descrição de caso de uso:
 A Abstergo armazenava arquivos em servidores locais e em sistemas de armazenamento caros. Com o S3, foi possível migrar dados para um serviço altamente durável, escalável e com classes de armazenamento econômicas, como S3 Standard-IA e S3 Glacier. Isso reduziu custos de backup, arquivamento e armazenamento de longo prazo, mantendo alta disponibilidade e segurança.
 
 
-Etapa 3:
+- Etapa 3:
 
 
 Nome da ferramenta: AWS Lambda
